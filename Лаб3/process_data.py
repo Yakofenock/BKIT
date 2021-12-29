@@ -6,7 +6,7 @@ from cm_timer import cm_timer_1
 
 # Сделаем другие необходимые импорты
 
-path = "C:\\Users\\Вадим\\Python_education_projects\\lab_3\\data_light.json"
+path = "C:\\Users\\yakers\\Python_education_projects\\lab_3\\data_light.json"
 
 # Необходимо в переменную path сохранить путь к файлу, который был передан при запуске сценария
 
